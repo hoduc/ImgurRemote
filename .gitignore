@@ -88,5 +88,8 @@ ENV/
 # Rope project settings
 .ropeproject
 
+#EMacs
+.*~
+
 # IMGUR API credential files
 cred.txt
